@@ -10,8 +10,7 @@ Este repositorio es una muestra para enseñar el manejo básico de **Git** y **G
 Para compilar el fichero `HolaMundo.java` ejecutamos la siguiente linea de comando(Es necesario tener instalado el *jdk*):
 
 ```console
-javac HolaMundo.java
-```
+javac HolaMundo.java```
 
 Por último para ejecutar el programa tecleamos:
 
