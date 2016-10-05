@@ -7,8 +7,11 @@
 public class HolaMundo { // Clase principal
 
 public static void main(String[] args) {
+  
+  String rojo = "\033[31m";
+  String verde = "\033[32m";
 
-  System.out.println("¡Hola mundo!");
+  System.out.println(rojo +"¡Hola" + verde +" mundo!");
 
   }
 
