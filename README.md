@@ -19,4 +19,4 @@ java HolaMundo.java
 
 Con la tecla **F5** compilamos el archivo y con la tecla **F8** lo ejecutamos(si no da errores)
 
-## ENlaces de interés
+## Enlaces de interés
