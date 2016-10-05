@@ -24,3 +24,6 @@ java HolaMundo.java
 Con la tecla **F5** compilamos el archivo y con la tecla **F8** lo ejecutamos(si no da errores)
 
 ## Enlaces de interés
+
+* [Aprende java con Ejercicios] (https://leanpub.com/aprendejava)
+* [Git y GitHub - Guia de supervivencia] (https://leanpub.com/gitygithub/) :ok_hand:
